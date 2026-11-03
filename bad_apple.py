@@ -4,7 +4,7 @@ import shutil
 import cv2
 
 # ASCII characters ordered from darkest to brightest
-ASCII_CHARS = "  ..::--==++**##%%@@"
+ASCII_CHARS = "  ..::--==++**##%%@@k"
 
 def frame_to_ascii(frame, width, height):
     # Resize frame to target terminal dimensions
